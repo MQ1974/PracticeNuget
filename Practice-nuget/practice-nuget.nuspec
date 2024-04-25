@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+<metadata>
+<id>PracticeNuget</id>
+<version>1.0.0</version>
+<authors>MudassirQ</authors>
+<owners>MudassirQ</owners>
+<description>A app to practice nuget pack</description>
+<license  type="expression">MIT</license>
+</metadata>
+<files>
+<file src="README.md" target="docs\" />
+</files>
+</package>
